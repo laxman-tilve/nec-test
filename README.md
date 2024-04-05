@@ -18,3 +18,11 @@ There many things that i avoided implementing due to time constraint and current
 
 Cheers. 
 
+/--------------------------------------------------------
+
+Version : 05042024
+Date : 05-04-2024
+Description : Added Sanitization Helper in helpers/sanitization.php. To implemenet sanitization in any feature, load the helper and passed the data to sanitization_input funtion.
+
+
+/---------------------------------------------------------
